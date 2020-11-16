@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
+N:Ng;Kenny;;;
+FN: Kenny  Ng 
+ORG:MHIR Asia;
+TITLE:Chief Engineer\nSystem Development Division
+EMAIL;type=INTERNET;type=WORK;type=pref:kenny.ng@mizuho-ir.co.jp
 TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+item1.ADR;type=WORK;type=pref:;;6 Changi Business Park Avenue 1\, #05-21A\, UE BizHub East (North Tower);;;486017;Singapore
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:www.mizuhogroup.com/information-and-research
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
